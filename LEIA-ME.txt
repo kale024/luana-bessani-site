@@ -1,0 +1,27 @@
+SITE — LUANA BESSANI | SALÃO DE BELEZA
+
+Arquivos:
+- index.html: estrutura do site
+- style.css: estilos e versão responsiva para celular
+- script.js: menu e formulário que prepara o pedido de agendamento no WhatsApp
+- assets/: imagens recortadas da captura de tela enviada
+
+COMO ABRIR
+1. Extraia todos os arquivos mantendo a pasta assets.
+2. Abra index.html no navegador. Não precisa instalar nada.
+
+IMPORTANTE — CONFIGURAR O WHATSAPP
+1. Abra script.js em um editor de texto.
+2. Localize: const WHATSAPP_NUMBER = '5566999999999';
+3. Troque pelo número real do salão, apenas números, com 55 + DDD + número.
+   Exemplo fictício: '5566991234567'.
+4. Salve o arquivo e teste o formulário.
+
+O perfil fornecido mostra o link curto https://wa.me/message/QBT72Q3KAWCQM1, mas não mostra o número direto. O formulário usa esse link até o número real ser configurado. Para garantir a mensagem preenchida automaticamente, configure o número direto.
+
+O formulário envia uma SOLICITAÇÃO; a data/horário só deve ser considerado confirmado após resposta do salão.
+
+Personalização: edite os textos e serviços em index.html. As imagens atuais foram recortadas da captura de tela enviada; substitua-as por fotos originais em melhor resolução quando disponíveis.
+
+
+Atualização: link do Instagram incluído no menu e rodapé: https://www.instagram.com/luanabessanioficial/. As imagens da fachada foram ajustadas para mostrar melhor a placa e a pessoa na entrada.
