@@ -1,6 +1,6 @@
 // CONFIGURE AQUI o número do WhatsApp do salão, com código do país e DDD.
 // Exemplo: 5566991234567 (55 + DDD + número, somente dígitos).
-const WHATSAPP_NUMBER = '5566999999999'; // TROQUE pelo número real do salão.
+const WHATSAPP_NUMBER = '5566999612535'; // TROQUE pelo número real do salão.
 const WHATSAPP_SHORT_LINK = 'https://wa.me/message/QBT72Q3KAWCQM1';
 
 const form = document.getElementById('bookingForm');
